@@ -120,7 +120,7 @@ python app.py
 
 ## 🔏 License & Attribution
 
-Specify your own license (e.g., MIT) and attribution details as needed.
+Soham1132
 
 ---
 
@@ -129,3 +129,4 @@ Thank you for using this demo — feel free to contribute improvements or ask qu
 [1]: https://python.langchain.com/docs/integrations/chat/groq/?utm_source=chatgpt.com "ChatGroq - ️ LangChain"
 [2]: https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/chat/groq.ipynb?utm_source=chatgpt.com "langchain/docs/docs/integrations/chat/groq.ipynb at master - GitHub"
 [3]: https://sangeethasaravanan.medium.com/building-a-simple-rag-app-using-langchain-chroma-and-groqs-mixtral-ee6504206a9d?utm_source=chatgpt.com "Building a Simple RAG App Using LangChain, Chroma, and Groq's ..."
+
